@@ -1,2 +1,2 @@
-# Peuntha
+# Pruntha
 Bithday
